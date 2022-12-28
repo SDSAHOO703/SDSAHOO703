@@ -12,7 +12,7 @@ I use GitHub in order to store and share some of the cool projects I have worked
 - ♂️ Pronouns: he/him 🤠.
 - 🗞️ **Fun fact**: I have worked as a newspaper delivery boy! 
 
-And, always remember that "YOU ROCK! 🤘"
+And, always remember that "***YOU ROCK!*** 🤘"
 
 <!---
 SDSAHOO703/SDSAHOO703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
