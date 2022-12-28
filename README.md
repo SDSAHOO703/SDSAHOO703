@@ -10,7 +10,7 @@ I use GitHub in order to store and share some of the cool projects I have worked
 - 🏏 I am heavily involved with playing and officiating cricket matches in Finland.
 - 📍 You can find me on [LinkedIn](https://www.linkedin.com/in/subhadyutisahoo/) (*login required in order to even view my profile*).
 - ♂️ Pronouns: he/him 🤠.
-- 🗞️ **Fun fact**: I have worked as a newspaper delivery boy! 
+- 🗞️ **Fun fact**: Once upon a time, I have worked as a newspaper delivery boy! 
 
 And, always remember that "***YOU ROCK!*** 🤘"
 
