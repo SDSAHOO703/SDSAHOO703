@@ -8,7 +8,7 @@ I use GitHub in order to store and share some of the cool projects I have worked
 
 - 💻 I work primarily with MATLAB and Simulink for creating physics-based models but I use Python and R if I have to work on developing data-driven machine and deep learning models.
 - 🏏 I am heavily involved with playing and officiating cricket matches in Finland 🇫🇮.
-- 📍 You can find me on [LinkedIn](https://www.linkedin.com/in/subhadyutisahoo/) (*login required in order to even view my profile*).
+- 📍 You can find me on [LinkedIn](https://www.linkedin.com/in/subhadyutisahoo/).
 - ♂️ Pronouns: he/him/his 🤠.
 - 🗞️ **Fun fact**: Once upon a time, I have worked as a newspaper delivery boy! 
 
